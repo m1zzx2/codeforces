@@ -1,0 +1,27 @@
+upper 3it : 3 size : 9
+upper 3it : 4 size : 8
+upper 4it : 4 size : 7
+upper 4it : 5 size : 6
+upper 7it : 7 size : 5
+upper 7it : 8 size : 4
+upper 7it : 8 size : 3
+3 1 4 2 7 5 6
+3 2 4 1 7 6 5
+upper 1it : 1 size : 6
+upper 2it : 2 size : 5
+upper 3it : 3 size : 4
+upper 4it : 4 size : 3
+1 2 3 4
+1 2 3 4
+upper 3it : 3 size : 9
+upper 4it : 4 size : 8
+upper 5it : 5 size : 7
+upper 5it : 6 size : 6
+upper 5it : 6 size : 5
+upper 7it : 7 size : 4
+upper 7it : 8 size : 3
+3 4 5 1 2 7 6
+3 4 5 2 1 7 6
+upper 1it : 1 size : 3
+1
+1
