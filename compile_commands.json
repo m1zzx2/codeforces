@@ -21,6 +21,11 @@
     },
     {
         "directory": "/Users/zhihu/project/cf/codeforces",
+        "command": "clang      -c \"/Users/zhihu/project/cf/codeforces/cgo/D.cpp\"",
+        "file": "/Users/zhihu/project/cf/codeforces/cgo/D.cpp"
+    },
+    {
+        "directory": "/Users/zhihu/project/cf/codeforces",
         "command": "clang      -c \"/Users/zhihu/project/cf/codeforces/718/C.cpp\"",
         "file": "/Users/zhihu/project/cf/codeforces/718/C.cpp"
     }
